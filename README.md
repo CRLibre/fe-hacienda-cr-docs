@@ -13,5 +13,5 @@ Esta documentación la estamos creando juntos en el wiki https://github.com/CRLi
 
 ## Documentación Oficial del Ministerio de Hacienda
 * http://www.hacienda.go.cr/contenido/14350-factura-electronica
-** [Requisitos de las facturas o comprobantes de ingresos](http://www.hacienda.go.cr/contenido/13383-requisitos-de-las-facturas-o-comprobantes-de-ingresos)
+  * [Requisitos de las facturas o comprobantes de ingresos](http://www.hacienda.go.cr/contenido/13383-requisitos-de-las-facturas-o-comprobantes-de-ingresos)
 
