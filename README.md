@@ -1,4 +1,4 @@
-# docs-fe-hacienda-cr
+# fe-hacienda-cr-docs
 Documentación de la Factura Electrónica del Ministerio de Hacienda en Costa Rica
 
 Esta documentación la estamos creando juntos en el wiki https://github.com/CRLibre/docs-fe-hacienda-cr/wiki/
